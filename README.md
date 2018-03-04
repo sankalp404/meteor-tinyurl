@@ -7,7 +7,7 @@ Technologies Used:
 * Meteor
 * React
 * Meteor-React-Data
-* MomgoDB
+* MongoDB
 * Meteor-WebApp (to allow faster redirects)
 
 # Run the App
